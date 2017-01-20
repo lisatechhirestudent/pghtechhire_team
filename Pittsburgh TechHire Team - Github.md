@@ -1,62 +1,43 @@
-Allen Weber
-[a link](https://github.com/allenweber)
+GitHub Pages for Pittsburgh Techire Team Members (01/2017)
 
-Brian Lewis
-[a link](https://github.com/Blewis95)
+[Allen Weber](https://github.com/allenweber)
 
-Cummie Washington
-[a link](https://github.com/cummiew)
+[Brian Lewis](https://github.com/Blewis95)
 
-Dover Hellfeldt
-[a link](https://github.com/doverh)
+[Cummie Washington](https://github.com/cummiew)
 
-Edwin Wells
-[a link](https://github.com/edwinwells)
+[Dover Hellfeldt](https://github.com/doverh)
 
-Francis (Frank) Mugo
-[a link](https://github.com/frankmugo)
+[Edwin Wells](https://github.com/edwinwells)
 
-Frank Coleman
-[a link](https://github.com/franque1)
+[Francis (Frank) Mugo](https://github.com/frankmugo)
 
-George Bruner
-[a link](https://github.com/gbruner)
+[Frank Coleman](https://github.com/franque1)
 
-Jayvon Harris
-?
+[George Bruner](https://github.com/gbruner)
 
-John Verbosky
-[a link](https://github.com/jverbosky)
+Jayvon Harris (?)
 
-Khalifa Cochran
-[a link](https://github.com/Spac3Man2)
+[John Verbosky](https://github.com/jverbosky)
 
-Lee Brown
-[a link](https://github.com/lbrown528)
+[Khalifa Cochran](https://github.com/Spac3Man2)
 
-Lisa Petrovich
-[a link](https://github.com/lisatechhirestudent)
+[Lee Brown](https://github.com/lbrown528)
 
-Matt Teitz
-[a link](https://github.com/mwteitz)
+[Lisa Petrovich](https://github.com/lisatechhirestudent)
 
-Max Pokropowicz
-[a link](https://github.com/mpokropowicz)
+[Matt Teitz](https://github.com/mwteitz)
 
-Mike Ciletti
-[a link](https://github.com/michaelciletti)
+[Max Pokropowicz](https://github.com/mpokropowicz)
 
-Pat Wehman
-[a link](https://github.com/wehman)
+[Mike Ciletti](https://github.com/michaelciletti)
 
-Patrick Roberts
-[a link](https://github.com/probpgh)
+[Pat Wehman](https://github.com/wehman)
 
-Sheri Dyson
-[a link](https://github.com/dysonsl)
+[Patrick Roberts](https://github.com/probpgh)
 
-Takhir Salimov
-[a link](https://github.com/Takhir78)
+[Sheri Dyson](https://github.com/dysonsl)
 
-Teela Subba
-[a link](https://github.com/subbat9710)
+[Takhir Salimov](https://github.com/Takhir78)
+
+[Teela Subba](https://github.com/subbat9710)
